@@ -1,0 +1,7 @@
+.photo__item {
+  max-width: 282px;
+  margin: 0;
+  background-color: #FFF;
+  border-radius: 10px;
+  max-height: 380px;
+}

@@ -1,0 +1,17 @@
+.weather {
+  margin: 70px auto 50px;
+  max-width: 500px;
+  padding-top: 45px;
+  border-bottom: 1px solid rgba(84, 84, 84, .7);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+@media screen and (max-width: 767.98px) {
+
+  .weather {
+    padding-top: 28px;
+    padding-left: 19px;
+    padding-right: 19px;
+  }
+}
